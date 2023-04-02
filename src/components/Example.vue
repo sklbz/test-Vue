@@ -17,6 +17,7 @@
 			return {
 				likes: 0,
 			}
+
 		}
 	}
 </script>
